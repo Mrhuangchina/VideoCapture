@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					A3C040D01F3F8D88009F4274 = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = 376Y8JVFWK;
 						ProvisioningStyle = Automatic;
 					};
 					A3C040E41F3F8D88009F4274 = {
@@ -412,7 +413,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 376Y8JVFWK;
 				INFOPLIST_FILE = VideoCapture/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = MrHuang.VideoCapture;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -424,7 +427,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 376Y8JVFWK;
 				INFOPLIST_FILE = VideoCapture/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = MrHuang.VideoCapture;
 				PRODUCT_NAME = "$(TARGET_NAME)";
